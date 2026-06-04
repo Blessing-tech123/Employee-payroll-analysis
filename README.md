@@ -6,6 +6,18 @@ This project is an Excel-based Payroll Management System designed to calculate e
 The project demonstrates how Microsoft Excel formulas and spreadsheet functions can be used to automate payroll calculations for employees in an organization. The payroll sheet contains employee details, working hours across different dates in January, overtime calculations, total monthly salary computations and Jan payment.
 This project was created as part of an Excel payroll assignment to strengthen practical skills in Excel formulas, payroll calculations, and spreadsheet modelling.
 
+## Data Sourcing
+The dataset used for this project was manually provided as part of the payroll assignment.
+The original dataset only contained:
+- Employee names
+- Hourly wage
+- Hours worked for different dates
+- Additional payroll columns were created during the project to support salary calculations.
+
+Original dataset ![](payroll_image3.jpg)
+Added payrolls ![](payroll_image.jpg)  
+![](payroll_image2.jpg)
+
 ## Problem Statement
 The organization needed a simple payroll system that could:
 -	Calculate normal pay for employees based on standard working hours.
@@ -25,19 +37,7 @@ This project demonstrates the following Excel skills:
 -	Formula replication across rows and columns
 -	Data structuring and formatting
 -	Payroll analysis
-
-## Data Sourcing
-The dataset used for this project was manually provided as part of the payroll assignment.
-The original dataset only contained:
-- Employee names
-- Hourly wage
-- Hours worked for different dates
-- Additional payroll columns were created during the project to support salary calculations.
-
-Original dataset ![](payroll_image3.jpg)
-Added payrolls ![](payroll_image.jpg)  
-![](payroll_image2.jpg)
-
+-	
 ## Data Transformation and Cleaning
 Several transformations were carried out to prepare the payroll sheet for analysis:
 1. Creation of Additional Payroll Columns
